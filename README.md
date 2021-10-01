@@ -1,3 +1,3 @@
-# test_conflicts
+# test_conflicts REMOTE
 
 Hello, this is a great new test!
